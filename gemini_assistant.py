@@ -14,7 +14,7 @@ from com.sun.star.awt import XActionListener
 
 # --- CONFIGURATION ---
 API_KEY = "Your_API_key"
-AI_MODEL = "gemini-1.5-flash-latest" # Changed to a valid model name
+AI_MODEL = "gemini-2.5-flash" # Changed to a valid model name
 
 # --- SYSTEM PROMPT ---
 SYSTEM_PROMPT_TEMPLATE = """
